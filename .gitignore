@@ -64,6 +64,9 @@ CMakeLists.txt.user*
 *.Debug
 *.Release
 
+#build generated files
+/build
+
 # Python byte code
 *.pyc
 
