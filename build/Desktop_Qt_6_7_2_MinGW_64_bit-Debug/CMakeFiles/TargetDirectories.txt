@@ -1,0 +1,9 @@
+D:/projects/c-c++/medical_cabinet/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/medical_cabinet.dir
+D:/projects/c-c++/medical_cabinet/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/projects/c-c++/medical_cabinet/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/projects/c-c++/medical_cabinet/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/projects/c-c++/medical_cabinet/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/projects/c-c++/medical_cabinet/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/projects/c-c++/medical_cabinet/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/projects/c-c++/medical_cabinet/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/medical_cabinet_autogen_timestamp_deps.dir
+D:/projects/c-c++/medical_cabinet/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/medical_cabinet_autogen.dir
