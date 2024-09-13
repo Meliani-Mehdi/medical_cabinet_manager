@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>assets/sun_wave_yes.png</file>
+        <file>assets/wave_low.png</file>
+    </qresource>
+</RCC>
